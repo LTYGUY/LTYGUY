@@ -1,6 +1,6 @@
 # what the dog doin?
 
-im the dogshit and gay
+winston's fault
 
 <div align="center">
     <img src="resources/image.jpeg" /> 
