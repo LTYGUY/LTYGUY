@@ -1,6 +1,6 @@
 # what the dog doin?
 
-winston's fault
+my whole family hates me
 
 <div align="center">
     <img src="resources/image.jpeg" /> 
