@@ -1,6 +1,6 @@
-# what the dog doin?
+# Hello
 
-my whole family hates me
+You called?
 
 <div align="center">
     <img src="resources/image.jpeg" /> 
