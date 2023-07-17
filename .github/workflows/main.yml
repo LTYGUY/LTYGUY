@@ -16,7 +16,7 @@ on:
     #        │ │ │ │ │
     #        │ │ │ │ │
     #        * * * * *
-    - cron: '0 0 * * MON-FRI'
+    - cron: '0 0 * * *'
 
 permissions:
   contents: write
